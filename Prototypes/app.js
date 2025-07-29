@@ -27,3 +27,4 @@
 // console.log(String.__proto__===Function.prototype true);
 // this is inheritance.
 // everything inside js is an object.
+
