@@ -1,0 +1,18 @@
+1.Js is a scripting as well as a programming language.
+2.Js is an interpreted programming language.
+3.All the rendering,interaction happens due to browser because browser have 2 different engines
+	a)Layout Engine:manage html,css type part
+	b)Js Engine:manage javascript part of your code or interactivity.
+4.there are 7 primitives in js
+	1.String-'a','abc'
+	2.Number-2,5.5
+	3.Boolean-T,F
+	4.Null
+	5.Undefined
+	6.BigInt
+	7.Symbol
+5.let a="Abhimanyu\nTomar"
+	Abhimanyu
+	Tomar
+6.String Template is most important for easier String writing.
+	let a=`hi my name is ${naam}.`

@@ -1,0 +1,18 @@
+1.those languages in which we don't have to mention  the datatype like js,python they are known as weakly typed programming language.
+	let a=19;
+	a="hello"
+2.those language in which we know variable type at run time they are known as dynamically typed PL.
+3.if u r doing string[index out of bounds] will not throw error it stores undefined.
+4.if u r using s.substring(a,b) where a>b then swapping happens like s.substring(5,2)==s.substring(2,5).
+5.if u write like s.substring(-2,5) then -2 convert to 0(negative index convert to 0) and it is convert to s.substring(0,5).
+6.indexOf:returns the first starting index  of given string in original string.
+	s.indexOf("abc")
+	s.indexOf("abc",6) --> 2nd argument states that how many characters we have to left from starting so it looks for appearance after those skipped characters.
+	it gives -1 if original string does not contain that given string.
+7.replace:replace first occurrence of desired string with the you want.(s.replace("m","h"));
+8.replaceAll:it replace all occurrence .
+9.repeat:string replication (a="aa" then s.repeat(3)-->"aaaaaa")
+10.s.trim(),s.toLowerCase()
+11.==:only check values(type casting hoti h)
+12.===:check values as well as data types (no type casting)
+ 

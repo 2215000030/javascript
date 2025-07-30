@@ -1,0 +1,19 @@
+1.Arrays is ordered data structure with heterogeneous elements.
+2.let arr=[1,2,"hii"];
+3.everything inside js is an Object.
+4.Arrays Methods
+	push(value):add value to last and return the new length of the array.
+	unshift(value):add value to start and return same;
+	pop():remove last element and return the popped element.
+	shift():remove first element and return the popped element.
+	slice:it acts  same as a substring for array.
+	splice():it same as slice but it also removes those elements from array.
+	splice(2):remove from 2 to end.
+	splice(2,4):from index 2 and till 4 length.
+	splice(2,4,"hii",45,35):from index 2 to length 4 and also add these arguments from starting index.
+	split("kiske along krna h"):returns array of parts
+	join("kya laga ke"):join array into a string.
+	concat:non destructive in string as well.
+	includes:same as list.contains in java in string as well.
+	indexof:same as string indexof
+	reverse:Destructive function
