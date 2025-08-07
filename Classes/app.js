@@ -11,8 +11,9 @@
 //         console.log(`this is ${this.name} ${this.age} years old with email ${this.email}`);
 //     }
 // };
-// let person1=new Person("lafda",23,"lafda@gmail.com");
+// // let person1=new Person("lafda",23,"lafda@gmail.com");
 // let person2=new Person();
+// console.log(person2);
 // person1.getInfo();
 // person2.getInfo();
 // console.log(person1.__proto__===Person.prototype); true
